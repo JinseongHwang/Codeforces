@@ -10,6 +10,12 @@
 그래도 전공자인데 블루까진 아니더라도 민트 정도는 사부작 사부작 만들어 두는 게 좋을 것 같네요.
 ```
 
+<br>
+
+#### [친구](https://github.com/Woobeen906)와 함께 [Notion](https://www.notion.so/Codeforces-154a0c8308f942efa6f631fe733e3db7)에 기록 중!
+
+<br>
+
 ## 유용한 PS 글 정리
 
 **djm03178님의 글(소멤), [더보기](http://www.secmem.org/authors/djm03178/)**
