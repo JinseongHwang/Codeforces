@@ -2,12 +2,12 @@
 using namespace std;
 
 bool isVowel(const char& c) {
-	if (c == 'A' || c == 'a' || 
-		c == 'O' || c == 'o' || 
-		c == 'Y' || c == 'y' ||
-		c == 'E' || c == 'e' ||
-		c == 'U' || c == 'u' ||
-		c == 'I' || c == 'i') return true;
+	if (c == 'A' || c == 'a'
+		|| c == 'O' || c == 'o' 
+		|| c == 'Y' || c == 'y' 
+		|| c == 'E' || c == 'e' 
+		|| c == 'U' || c == 'u' 
+		|| c == 'I' || c == 'i') return true;
 	return false;
 }
 
